@@ -1,0 +1,122 @@
+
+
+body {
+    margin: 0;
+    /* padding-left: 10px;
+    padding-right: 10px; */
+    font-family: sans-serif;
+}
+.div-1  {
+    margin-top: -20px;
+    margin-bottom: -17px;
+    background: url(images/1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 106vh;
+}
+.div-1 p {
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    top: -15px;
+    right: 25px;
+}
+.div-2 {
+    background-color: #4C358C;
+    height: 100vh;
+    position: relative;
+}
+.text  {
+    font-size: 25px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    width: 80%;
+    color: white;
+}
+/* @media (max-width:767px) {
+    .div-1 {
+        background-color: red;
+        background: url(images/1.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+} */
+.div-3 {
+    background: url(images/3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 115vh;
+}
+.div-4 {
+    background: url(f4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+ 
+.div-5 {
+    background: url(images/5.png);
+    height: 130vh;
+}
+
+.div-6 {
+    background: url(images/6.png);
+    /* background-size: cover;
+    background-repeat: no-repeat; */
+    margin-bottom: -30px;
+    height: 120vh;
+}
+.div-7 {
+    background: url(8+.png);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.div-8 {
+    background: url(tal.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 275vh;  
+}
+
+.div-9 {
+    background: url(images/9.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 110vh;  
+}
+
+.div-10 {
+    background: url(ae.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 120vh;
+}
+
+.div-11 {
+    background: url(f11.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}  
+.div-12 {
+    background: url(aed.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50vh;
+    padding-bottom: 50px;
+}  
+.footer {
+    background-color: black;
+    height: 100px;
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+.footer span , i {
+    color: #4C358C;
+}
