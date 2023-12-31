@@ -50,7 +50,7 @@ body {
     height: 115vh;
 }
 .div-4 {
-    background: url(f4.png);
+    background: url(images/f4.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -69,14 +69,14 @@ body {
     height: 120vh;
 }
 .div-7 {
-    background: url(8+.png);
+    background: url(images/8+.png);
     height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .div-8 {
-    background: url(tal.png);
+    background: url(images/tal.png);
     background-size: cover;
     background-repeat: no-repeat;
     height: 275vh;  
@@ -90,20 +90,20 @@ body {
 }
 
 .div-10 {
-    background: url(ae.png);
+    background: url(images/ae.png);
     background-size: cover;
     background-repeat: no-repeat;
     height: 120vh;
 }
 
 .div-11 {
-    background: url(f11.png);
+    background: url(images/f11.png);
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
 }  
 .div-12 {
-    background: url(aed.png);
+    background: url(images/aed.png);
     background-size: cover;
     background-repeat: no-repeat;
     height: 50vh;
